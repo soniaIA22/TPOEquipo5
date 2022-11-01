@@ -45,4 +45,12 @@ var value =+ 200;    //es igual a value=value+200
 console.log(value)
 
 var nombre = prompt ("Ingrese su nombre", "") 
-    document.write( "Hola " + nombre)
+document.write( "Hola " + nombre)
+
+/*function ejercicio_9 {
+let suma=0;
+for (i=0;i<=5;i++){ 
+        suma=suma+i; 
+    }
+console.log(i);
+}*/
